@@ -1,2 +1,10 @@
-# post-covid-19-disease-prediction-
-Post COVID-19 disease prediction uses patient data and machine learning to identify individuals at risk of developing long-term complications after recovering from COVID-19. The goal is to support early diagnosis, targeted treatment, and improved post-recovery care through predictive analytics and personalized monitoring.
+# 🧠 Post-COVID Risk Prediction App
+
+This is a simple **Streamlit-based AI demo** that predicts the likelihood of developing **Long-COVID** based on basic health parameters.
+
+## 🚀 How to Run
+
+1. Clone the repository or download the project:
+   ```bash
+   git clone https://github.com/your-username/post_covid_risk_app.git
+   cd post_covid_risk_app
